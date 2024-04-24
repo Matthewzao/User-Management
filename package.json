@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "@types/uuid": "^9.0.8"
+  },
+  "scripts": {
+    "dev": "tsx fundamentals.ts"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "express": "^4.19.2",
+    "faker": "^6.6.6",
+    "random-user-generator": "^0.2.0",
+    "ts-node": "^10.9.2",
+    "uuid": "^9.0.1",
+    "zod": "^3.23.4"
+  }
+}
